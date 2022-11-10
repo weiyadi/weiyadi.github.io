@@ -11,4 +11,10 @@ B.S. in Computer Science and Technology, Nanjing University, 2013-2017
 
 ## Publications
 
+- Y. Wei, and R. Khardon, On the Performance of Direct Loss Minimization for Bayesian Neural Networks, I Cant
+Believe Its Not Better Workshop: Understanding Deep Learning Through Empirical Falsification, 2022
+
 - Y. Wei, R. Sheth, and R. Khardon, Direct Loss Minimization for Sparse Gaussian Processes, The International Conference on Artificial Intelligence and Statistics (AISTATS), 2021
+
+- J. Peng, Y. Qin, Y. Wei and Y. Zhou, A PTAS for the Bayesian Thresholding Bandit Problem, The International
+Conference on Artificial Intelligence and Statistics (AISTATS), 2020
