@@ -11,7 +11,7 @@ B.S. in Computer Science and Technology, Nanjing University, 2013-2017
 
 ## Publications
 
-- Y. Wei and R. Khardon, [Direct Uncertainty Quantification](https://arxiv.org/abs/2302.02420), preprint, 2023
+- Y. Wei and R. Khardon, [Variational Inference on the Final-Layer Output of Neural Networks](https://openreview.net/forum?id=mTOzXLmLKr), TMLR, 2024
 
 - Y. Wei and R. Khardon, [On the Performance of Direct Loss Minimization for Bayesian Neural Networks](https://arxiv.org/abs/2211.08393), I Cant
 Believe Its Not Better Workshop: Understanding Deep Learning Through Empirical Falsification, 2022
